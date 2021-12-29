@@ -10,5 +10,6 @@ project(
 )
 # Dependecies
 libcurl = dependency('libcurl')
+jsonc = dependency('json-c')
 
 subdir('ncdb')
