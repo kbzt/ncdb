@@ -12,8 +12,6 @@ int main(int argc, char const *argv[]){
       //printf("Processes:  %lu\n", getProcesses());
       sleep(1);
     }*/
-
-    printf(getWeatherInfo("2d7b0899966721fd30b1be1f2511e55a", "6167865"));
     
     return 0;
 }
